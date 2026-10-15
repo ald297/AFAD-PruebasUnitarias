@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AFAD.Cadenas.UnitTestAppxUnit/AFAD.Cadenas.UnitTestAppxUnit.csproj" />
+  <Project Path="AFAD.Cadenas/AFAD.Cadenas.csproj" />
+  <Project Path="AFAD.Temperatura.UnitTestMSTest/AFAD.Temperatura.UnitTestMSTest.csproj" />
+  <Project Path="AFAD.Temperatura/AFAD.Temperatura.csproj" />
+</Solution>
